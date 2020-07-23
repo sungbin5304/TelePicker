@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AttachmentElement">
+        <attr name="ae_text" format="reference|string" />
+        <attr name="ae_icon" format="reference" />
+        <attr name="ae_color" format="reference|color" />
+    </declare-styleable>
+    <attr name="AttachmentElementStyle" />
+</resources>
