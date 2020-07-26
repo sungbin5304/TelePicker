@@ -5,5 +5,8 @@
         <attr name="ae_icon" format="reference" />
         <attr name="ae_color" format="reference|color" />
     </declare-styleable>
-    <attr name="AttachmentElementStyle" />
+
+    <declare-styleable name="CountCheckBox">
+        <attr name="ccb_color" format="reference|color" />
+    </declare-styleable>
 </resources>

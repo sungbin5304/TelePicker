@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="gallery">갤러리</string>
+    <string name="file">파일</string>
+    <string name="locate">위치</string>
+    <string name="vote">설문</string>
 </resources>
